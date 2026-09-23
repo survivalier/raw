@@ -1,0 +1,131 @@
+				Survivalier License
+				Version 1.0, September 2026
+
+Project: Labs OS
+Publication Date: 01 Sept. 2026
+Copyright Holder / Owner: Survivalier
+License Version: 1.0
+
+1. Scope
+
+The Labs OS project (the “Project”) is made available by Survivalier under the terms and conditions of this License.
+
+Unless expressly stated otherwise, this License applies to the source code, images, graphical assets, documentation, files, and other materials distributed as part of the Project.
+
+2. Intellectual Property
+
+The Project, including its source code, images, graphical assets, documentation, and other materials, is protected by applicable intellectual property laws.
+
+Except for the rights expressly granted under this License, no ownership rights or intellectual property rights in the Project are transferred to any user.
+
+All copyrights, trademarks, logos, names, and other distinctive elements associated with the Project remain the property of their respective owners.
+
+3. Grant of License
+
+Subject to the terms of this License, Survivalier grants the recipient of a lawful copy of the Project a limited, non-exclusive, non-transferable license to:
+
+use the Project for personal purposes;
+use the Project for private purposes;
+use the Project for non-commercial purposes;
+access and inspect the source code;
+copy the Project for the purposes permitted by this License;
+modify the Project.
+
+Any commercial use, including use intended to generate revenue directly or indirectly, is prohibited without the prior written authorization of Survivalier, except where such restriction is prohibited by applicable law.
+
+4. Modification and Derivative Works
+
+Modification of the source code and other components of the Project is permitted.
+
+Any modified version or derivative work distributed to third parties must:
+
+remain subject to this License;
+retain all existing copyright and intellectual property notices;
+clearly indicate that modifications have been made;
+retain the applicable attribution and contributor information;
+include a complete copy of this License.
+5. Redistribution
+
+Redistribution of the Project or of a modified version is permitted solely for purposes authorized by this License.
+
+Any redistribution must include a copy of this License and all applicable copyright and attribution notices.
+
+A modified version must not be represented as the original, unmodified version of the Project.
+
+6. Same-License Requirement
+
+Any authorized copy, modified version, or derivative work of the Project that is distributed to third parties must be distributed under the same License.
+
+No recipient may remove, replace, or otherwise alter this License for the purpose of distributing a derivative version under incompatible terms.
+
+7. Attribution and Contributors
+
+All existing copyright, ownership, and attribution notices must be preserved.
+
+Contributors to the Project must be appropriately credited.
+
+Where the Project contains a contributor or credits section, such section must be preserved and, where applicable, updated to include subsequent contributors.
+
+Attribution may be provided in substantially the following form:
+
+Original Project: Labs OS
+Copyright Holder / Owner: Survivalier
+Contributors:
+
+(CONTRIBUTOR 1)
+(CONTRIBUTOR 2)
+etc.
+8. No Warranty
+
+THE PROJECT IS PROVIDED “AS IS” AND “AS AVAILABLE”, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+Survivalier MAKES NO WARRANTIES OR REPRESENTATIONS, EXPRESS OR IMPLIED, REGARDING THE PROJECT, INCLUDING, WITHOUT LIMITATION, ITS FUNCTIONALITY, AVAILABILITY, ACCURACY, RELIABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR FREEDOM FROM ERRORS OR DEFECTS.
+
+THE PROJECT IS USED ENTIRELY AT THE USER'S OWN RISK.
+
+NOTHING IN THIS LICENSE SHALL BE CONSTRUED AS EXCLUDING OR LIMITING ANY LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+
+9. Limitation of Liability
+
+To the maximum extent permitted by applicable law, Survivalier shall not be liable for any direct, indirect, incidental, consequential, special, or other damages arising out of or in connection with the use, inability to use, modification, distribution, or possession of the Project.
+
+This limitation shall not apply to any liability that cannot legally be excluded or limited under applicable law.
+
+10. Compliance with Applicable Law
+
+The Project must be used, modified, and distributed in compliance with all applicable laws and regulations.
+
+Nothing in this License grants any right or permission that would be contrary to mandatory provisions of applicable law.
+
+11. Termination
+
+The rights granted under this License shall automatically terminate upon a material breach of its terms.
+
+Upon termination, the recipient must cease all uses and distributions that are no longer authorized under this License or otherwise permitted by applicable law.
+
+Any rights that cannot legally be terminated shall remain unaffected.
+
+12. Reservation of Rights
+
+All rights not expressly granted under this License are reserved by Survivalier, to the extent permitted by applicable law.
+
+13. Governing Law
+
+This License shall be governed by and construed in accordance with the laws of France, without prejudice to any mandatory provisions of applicable law.
+
+Any dispute arising out of or relating to this License shall be subject to the jurisdiction of the competent courts in accordance with the applicable rules of jurisdiction and procedure.
+
+14. Severability
+
+If any provision of this License is determined to be invalid, unlawful, or unenforceable, that provision shall be enforced to the maximum extent permitted by law, and the remaining provisions shall remain in full force and effect.
+
+15. Acceptance
+
+By using, copying, modifying, or redistributing the Project, the recipient acknowledges that they have read and agree to be bound by the terms of this License, to the extent permitted by applicable law.
+
+© 01 Sept. 2026 Survivalier. All rights reserved, except as expressly granted under this License.
+
+Project: Labs OS
+License: Survivalier License v1.0
+Copyright Holder / Owner: Survivalier
+Publication Date: 01 Sept. 2026
